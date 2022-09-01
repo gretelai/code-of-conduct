@@ -1,7 +1,7 @@
 # Condensed Code of Conduct `tl;dr`
 _This is a condensed version of the Gretel Code of Conduct for ease of viewing.
 This is not to be taken as the full Code of Conduct, and people engaging anywhere 
-within our communities are always expected to abide by our [full Code of Conduct](CoC-full.md)_
+within our communities are always expected to abide by our [full Code of Conduct](CoC-full.md)_.
 
 ## Our Pledge
 The Gretel Community Leaders are fiercely committed to providing members with a
