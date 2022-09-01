@@ -16,7 +16,7 @@ diverse, inclusive, and healthy community.
 1. No spamming, trolling, links to harmful websites, or unrelated content
 1. No advertising outside of specified channels
 1. No abuse, harassment, or doxxing
-1. No NSFW imagry, videos, messages, or content of any kind
+1. No NSFW imagery, videos, messages, or content of any kind
 
 ## Scope
 The Gretel Code of Conduct is enforced within every community that Gretel owns 
