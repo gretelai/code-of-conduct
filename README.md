@@ -7,4 +7,4 @@ here for your reference
     * This is our complete, comprehensive Code of Conduct. Everyone within our 
     Community spaces is subject to this Code of Conduct in its entirety.
 * [Condensed Code of Conduct](CoC-tldr.md)
-    * A short-hand version of our full CoC.
+    * A short-hand version of our full Code of Conduct.
