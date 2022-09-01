@@ -24,7 +24,7 @@ and operates. This includes but is not limited to: Discord, Slack, GitHub, Reddi
 
 ## Enforcement
 The Gretel Community Leaders and others who they designate will be responsible
-for enforcing this Code of Conduct
+for enforcing this Code of Conduct.
 
 ## Report a Violation
 If you need to report a Code of Conduct violation, email coc AT gretel DOT ai
