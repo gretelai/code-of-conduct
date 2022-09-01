@@ -20,7 +20,7 @@ diverse, inclusive, and healthy community.
 
 ## Scope
 The Gretel Code of Conduct is enforced within every community that Gretel owns 
-and operates. This includes but is not limited to: Discord, Slack, GitHub, Reddit
+and operates. This includes but is not limited to: Discord, Slack, GitHub, Reddit.
 
 ## Enforcement
 The Gretel Community Leaders and others who they designate will be responsible
